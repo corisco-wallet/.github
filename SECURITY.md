@@ -30,8 +30,8 @@ Please report privately to **ruipedrotelesribeiro@gmail.com** (or via
 on the affected repo, once enabled) rather than opening a public issue or
 PR. Include:
 
-- Which repo/component is affected (`crypto-core` or `corisco-wallet`'s
-  `esp32-firmware`/`corisco-android-app`).
+- Which repo/component is affected (`crypto-core`, `corisco-firmware` or
+  `corisco-android-app`).
 - Steps to reproduce, or a description of the weakness if reproduction
   needs physical hardware you don't have.
 - What you think the actual impact is.

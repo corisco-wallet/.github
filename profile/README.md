@@ -20,3 +20,8 @@ signing protocol.
 
 Start with `corisco-firmware`'s README for the architecture overview and a
 quickstart for each component.
+
+## Support us
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ruipedro07-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/ruipedro07)
+· [Other ways to donate (BTC)](https://github.com/corisco-wallet/.github/blob/main/DONATE.md)

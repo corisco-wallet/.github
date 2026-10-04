@@ -9,3 +9,13 @@ its own.
 `CONTRIBUTING.md` and `CODEOWNERS` are deliberately **not** here --
 build/contribution instructions and path ownership differ per repo, so
 those live in each repo individually.
+
+## Funding
+
+See [DONATE.md](DONATE.md) for ways to support the project.
+
+Bitcoin (BTC) donation address, mainnet:
+
+```
+bc1q85g2mdew9wdszvgtpffxp2lttrmy90jelmrxzf
+```

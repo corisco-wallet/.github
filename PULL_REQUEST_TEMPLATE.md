@@ -4,9 +4,9 @@
 
 ## Component(s) touched
 
-- [ ] `crypto-core`
-- [ ] `esp32-firmware`
+- [ ] `corisco-firmware` (firmware / `corisco-protocol`)
 - [ ] `corisco-android-app`
+- [ ] `crypto-core`
 - [ ] docs / CI only
 
 ## Checks
@@ -14,9 +14,14 @@
 - [ ] `cargo fmt` / `cargo clippy` clean (for Rust changes)
 - [ ] `npx tsc --noEmit` clean (for corisco-android-app changes)
 - [ ] Tests added/updated for the behavior change, or N/A
-- [ ] If this touches the BLE wire protocol: both `ble.rs` and
-      `postcard.ts` were updated in this PR, with the new variant
-      **appended**, not inserted
+- [ ] If this touches the BLE wire protocol (`corisco-protocol`): new
+      `Request`/`Response` variants are **appended**, not inserted, and
+      `protocol/vectors.json` was regenerated
+      (`UPDATE_VECTORS=1 cargo test -p corisco-protocol`)
+- [ ] If this changes the wire protocol: a follow-up PR updates `postcard.ts`
+      in `corisco-android-app` and bumps its pinned firmware release
+- [ ] If this changes `crypto-core`: firmware's pinned `crypto-core` tag is
+      bumped in a follow-up PR
 - [ ] If this is a firmware UI/screen change: attached a screenshot or
       short clip from real hardware
 

@@ -18,7 +18,7 @@ signing protocol.
 You need:
 
 - A [LilyGo T-Display-S3](https://github.com/Xinyuan-LilyGO/T-Display-S3) and a USB data cable
-- An Android phone with Bluetooth
+- An Android phone with Bluetooth (soon available for IOS)
 - A computer (Windows, macOS or Linux) with [Rust](https://rustup.rs) installed, used only to flash
 
 ### 1. Install the app

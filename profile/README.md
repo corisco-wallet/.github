@@ -56,7 +56,7 @@ You need:
 1. Open the Corisco app, turn Bluetooth on and pick your device (it shows up as `Corisco-<id>`).
 2. Receive a payment, or send one and **confirm it on the device's screen**. Nothing is signed until you do.
 
-> Early software: test with small amounts only.
+> Early software, running on **mainnet** (real bitcoin): use small amounts only.
 > Need a hand? [Open an issue](https://github.com/corisco-wallet/corisco-firmware/issues).
 
 ## Repositories

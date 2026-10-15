@@ -8,7 +8,7 @@ labels: enhancement
 ## Component
 
 - [ ] `crypto-core`
-- [ ] `esp32-firmware`
+- [ ] `corisco-firmware`
 - [ ] `corisco-android-app`
 
 ## What problem does this solve?

@@ -73,6 +73,14 @@ You need:
 Start with `corisco-firmware`'s README for the architecture overview and a
 quickstart for each component.
 
+## Contributing and security
+
+Contribution guides: [firmware](https://github.com/corisco-wallet/corisco-firmware/blob/main/CONTRIBUTING.md)
+· [android app](https://github.com/corisco-wallet/corisco-android-app/blob/main/CONTRIBUTING.md)
+· [crypto-core](https://github.com/corisco-wallet/crypto-core/blob/main/CONTRIBUTING.md).
+Found a vulnerability? Report it privately, see the
+[security policy](https://github.com/corisco-wallet/.github/blob/main/SECURITY.md).
+
 ## Support us
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ruipedro07-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/ruipedro07)

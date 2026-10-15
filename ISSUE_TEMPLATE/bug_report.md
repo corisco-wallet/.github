@@ -7,12 +7,12 @@ labels: bug
 
 **Security-sensitive?** If this is about key exposure, signing
 confirmation bypass, or BLE/PIN authentication weaknesses, please follow
-`SECURITY.md` for private disclosure instead of filing a public issue.
+the [security policy](https://github.com/corisco-wallet/.github/blob/main/SECURITY.md) for private disclosure instead of filing a public issue.
 
 ## Component
 
 - [ ] `crypto-core`
-- [ ] `esp32-firmware`
+- [ ] `corisco-firmware`
 - [ ] `corisco-android-app`
 
 ## What happened?
@@ -28,7 +28,7 @@ confirmation bypass, or BLE/PIN authentication weaknesses, please follow
 ## Environment
 
 - Device/OS (for corisco-android-app): 
-- Hardware revision (for esp32-firmware), if relevant: 
+- Hardware revision (for corisco-firmware), if relevant: 
 - Commit/version:
 
 ## Logs / screenshots

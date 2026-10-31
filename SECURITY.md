@@ -25,7 +25,7 @@ normal public issues instead.
 
 ## Reporting a vulnerability
 
-Please report privately to **contact@ruiribeiro.dev** (or via
+Please report privately to **info@corisco.org** (or via
 [GitHub's private vulnerability reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing/privately-reporting-a-security-vulnerability)
 on the affected repo, once enabled) rather than opening a public issue or
 PR. Include:
